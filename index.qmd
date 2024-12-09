@@ -14,3 +14,4 @@ This site is built with:
 ![Quarto](https://img.shields.io/badge/Made%20with-Quarto-blue?style=for-the-badge&logo=quarto)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 ![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222222?style=for-the-badge&logo=github)
+

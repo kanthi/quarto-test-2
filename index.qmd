@@ -1,52 +1,16 @@
 ---
-title: "Navigation Demo"
+title: "KINGs IT NOTES"
 ---
 
-This is a Quarto website designed to demonstrate some navigation options.
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/king/quarto-test-2/publish.yml?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/king/quarto-test-2?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/king/quarto-test-2?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/king/quarto-test-2?style=for-the-badge)
 
-::: {.content-hidden unless-profile="auto-sidebar"}
-You are currently viewing "Automatic sidebar" (profile: `auto-sidebar`):
-```{.yaml filename="_quarto-auto-sidebar.yml"}
-{{< include _quarto-auto-sidebar.yml >}}
-```
-:::
+## Repository Information
 
-::: {.content-hidden unless-profile="all-top-nav"}
-You are currently viewing "All in top navigation" (profile: `all-top-nav`):
-```{.yaml filename="_quarto-all-top-nav.yml"}
-{{< include _quarto-all-top-nav.yml >}}
-```
-:::
+This site is built with:
 
-::: {.content-hidden unless-profile="hybrid"}
-You are currently viewing "Hybrid navigation" (profile: `hybrid`):
-```{.yaml filename="_quarto-hybrid.yml"}
-{{< include _quarto-hybrid.yml >}}
-```
-:::
-
-View other navigation variations:
-
-::: {.content-hidden when-profile="auto-sidebar"}
-* [Automatic sidebar](https://charlotte.quarto.pub/navigation-demo-auto-sidebar) (profile: `auto-sidebar`)
-:::
-
-::: {.content-hidden when-profile="all-top-nav"}
-* [All in top navigation](https://charlotte.quarto.pub/navigation-demo-all-top-nav) (profile: `all-top-nav`)
-:::
-
-::: {.content-hidden when-profile="hybrid"}
-* [Hybrid](https://charlotte.quarto.pub/navigation-demo-hybrid) (profile: `hybrid`)
-:::
-
-
-## Source Code
-
-You can get the source code at: <http://github.com/cwickham/nav-demo>
-
-The project uses profiles to describe the different navigation options. To preview an option locally use `quarto preview` with the appropriate profile, e.g.:
-
-```{.bash filename="Terminal"}
-quarto preview --profile auto-sidebar
-```
-
+![Quarto](https://img.shields.io/badge/Made%20with-Quarto-blue?style=for-the-badge&logo=quarto)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222222?style=for-the-badge&logo=github)

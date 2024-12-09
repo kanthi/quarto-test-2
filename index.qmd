@@ -1,17 +1,5 @@
 ---
 title: "KINGs IT NOTES"
 ---
-
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/king/quarto-test-2/publish.yml?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/king/quarto-test-2?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/king/quarto-test-2?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/king/quarto-test-2?style=for-the-badge)
-
-## Repository Information
-
-This site is built with:
-
-![Quarto](https://img.shields.io/badge/Made%20with-Quarto-blue?style=for-the-badge&logo=quarto)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222222?style=for-the-badge&logo=github)
+#### Welcome to KINGs IT NOTES
 

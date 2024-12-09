@@ -5,6 +5,55 @@ website:
   sidebar:
     contents: auto
   title: "Kings Book"
+  #reader-mode: true
+  #image: "quarto-dark-bg.jpeg"
+  #favicon: "favicon.png"
+  #google-analytics: "G-FV9Z7SDZ0M"
+  #open-graph: true
+  #twitter-card: true
+  #site-url: https://quarto.org
+  #repo-url: https://github.com/quarto-dev/quarto-web
+  #issue-url: https://github.com/quarto-dev/quarto-cli/issues/new/choose
+  #repo-actions: [edit, issue]
+  #page-navigation: true
+  bread-crumbs: true
+  #announcement:
+   #  content: "🎉 Quarto 1.6 released! [Download](/docs/download/) | [Read More](/docs/blog/posts/2024-11-25-1.6-release)"
+   #  position: below-navbar
+   # dismissable: true
+ # search:
+ #   show-item-context: true
+ #   type: overlay
+ #   algolia:
+ #     index-name: prod_QUARTO
+ #     application-id: ZPJB5I1QN7
+ #     search-only-api-key: 41be6c1e0a7fea4a51b107810facf577
+ #     analytics-events: true
+ #     show-logo: true
+ # page-footer:
+ #   left: |
+ #     Proudly supported by
+ #     [![](https://posit.co/wp-content/uploads/2024/06/Posit-Logos-2024_horiz-full-color.svg){fig-alt="Posit" width=65px}](https://posit.co)
+ #   center:
+ #     - text: "About"
+ #       href: about.qmd
+ #     - text: "FAQ"
+ #       href: docs/faq/index.qmd
+ #     - text: "License"
+ #       href: license.md
+ #     - text: "Trademark"
+ #       href: trademark.qmd
+ #   right:
+ #     - icon: twitter
+ #       href: https://twitter.com/
+ #       aria-label:  Twitter
+ #     - icon: github
+ #       href: https://github.com/q
+ #       aria-label:  GitHub
+ #     - icon: rss
+ #       href: https://q/docs/blog/index.xml
+ #       aria-label: Blog RSS
+
 
 format:
   html:

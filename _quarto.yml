@@ -4,7 +4,7 @@ project:
 website:
   sidebar:
     contents: auto
-    style: "docked"
+  #  style: "docked"
   title: "Kings Book"
   #reader-mode: true
   #image: "quarto-dark-bg.jpeg"
@@ -61,4 +61,4 @@ format:
     page-layout: full
     theme:
       light: cosmo
-      dark:  darkly
+      dark:  superhero

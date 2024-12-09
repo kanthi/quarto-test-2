@@ -1,0 +1,14 @@
+project:
+  type: website
+
+website:
+  sidebar:
+    contents: auto
+  title: "Kings Book"
+
+format:
+  html:
+    page-layout: full
+    theme:
+      light: cosmo
+      dark:  darkly

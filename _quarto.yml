@@ -5,7 +5,7 @@ website:
   sidebar:
     contents: auto
 
-    style: "docked"
+  #  style: "docked"
   title: "KINGsNOTES"
   #reader-mode: true
   #image: "quarto-dark-bg.jpeg"

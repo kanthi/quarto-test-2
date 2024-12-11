@@ -62,4 +62,4 @@ format:
     page-layout: full
     theme:
       light: cosmo
-      dark:  superhero
+      dark:  darkly

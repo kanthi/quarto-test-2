@@ -69,6 +69,42 @@ procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
  0  0      0 823012  66268 460644    0    0     0     0   86  154  0  0 100 0  0
  0  0      0 823012  66268 460644    0    0     0     0   84  150  0  0 100 0  0
 ```
+## Additional Examples
+
+### Display Active/Inactive Memory
+```bash
+$ vmstat -a
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free  inact active   si   so    bi    bo   in   cs us sy id wa st
+ 1  0      0 823012 264888 460644    0    0     1     1    1    2  1  0 98  0  0
+```
+
+### Show Memory Statistics
+```bash
+$ vmstat -s
+      2048000 K total memory
+       823012 K used memory
+       660644 K active memory
+       264888 K inactive memory
+        66268 K free memory
+            0 K buffer memory
+       458756 K swap cache
+```
+
+### Display Disk Statistics
+```bash
+$ vmstat -d
+disk- ------------reads------------ ------------writes----------- -----IO------
+       total merged sectors      ms  total merged sectors      ms    cur    sec
+sda    40307   2109  714418    8564   23012   14028  298010   22534   0      42
+sdb    35292   1819  684290    7845   21320   13822  287999   20145   0      38
+```
+
+### Show Fork Statistics
+```bash
+$ vmstat -f
+     386281 forks
+```
 
 This command is particularly useful for:
 - System performance monitoring

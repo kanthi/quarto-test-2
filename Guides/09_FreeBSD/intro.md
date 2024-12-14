@@ -8,9 +8,3 @@ FreeBSD is an operating system that is based on the Unix operating system. It is
 - It is a secure and reliable operating system
 - It is easy to install and configure
 - It is easy to upgrade and maintain
-
-## Types of FreeBSD
-
-1. FreeBSD
-2. FreeBSD Server
-3. FreeBSD Desktop
